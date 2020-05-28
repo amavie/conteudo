@@ -1,0 +1,10 @@
+{
+ "tracked":{"value":767420,},
+ "tested":{"value":8796,},
+ "quarantine":{"value":15258,},
+ "confirmed":{"value":209,},
+ "negativos":{"value":8587,},
+ "activos":{"value":135,},
+ "deaths":{"value":1,},
+ "recovered":{"value":71,},
+"lastUpdate":"2020-05-25T17:00:00.000Z"}
