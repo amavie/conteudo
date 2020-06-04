@@ -1,10 +1,10 @@
 {
- "rastreados":{"value":847627,"detail":"https://github.com/amavie/covid19_misau/tracked"},
- "testados":{"value":12096,"detail":"https://github.com/amavie/covid19_misau/tested"},
- "quarentena":{"value":16890,"detail":"https://github.com/amavie/covid19_misau/quarantine"},
- "positivos":{"value":352,"detail":"https://github.com/amavie/covid19_misau/confirmed"},
- "negativos":{"value":11744,"detail":"https://github.com/amavie/covid19_misau/deaths"},
- "activos":{"value":236,"detail":"https://github.com/amavie/covid19_misau/deaths"},
- "obitos":{"value":2,"detail":"https://github.com/amavie/covid19_misau/deaths"},
- "recuperados":{"value":114,"detail":"https://github.com/amavie/covid19_misau/recovered"},
+ "rastreados":{"value":847627,"detail":"https://github.com/mozcovid19/conteudo/rastreados"},
+ "testados":{"value":12096,"detail":"https://github.com/mozcovid19/conteudo/testados"},
+ "quarentena":{"value":16890,"detail":"https://github.com/mozcovid19/conteudo/quarentena"},
+ "positivos":{"value":352,"detail":"https://github.com/mozcovid19/conteudo/positivos"},
+ "negativos":{"value":11744,"detail":"https://github.com/mozcovid19/conteudo/negativos"},
+ "activos":{"value":236,"detail":"https://github.com/mozcovid19/conteudo/activos"},
+ "obitos":{"value":2,"detail":"https://github.com/mozcovid19/conteudo/obitos"},
+ "recuperados":{"value":114,"detail":"https://github.com/mozcovid19/conteudo/recuperados"},
 "actualizacao":"2020-06-04T17:00:00.000Z"}
