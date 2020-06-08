@@ -1,10 +1,10 @@
 {
- "rastreados":{"value":847627,"detail":"https://github.com/mozcovid19/conteudo/rastreados"},
- "testados":{"value":12096,"detail":"https://github.com/mozcovid19/conteudo/testados"},
- "quarentena":{"value":16890,"detail":"https://github.com/mozcovid19/conteudo/quarentena"},
- "positivos":{"value":352,"detail":"https://github.com/mozcovid19/conteudo/positivos"},
- "negativos":{"value":11744,"detail":"https://github.com/mozcovid19/conteudo/negativos"},
+ "rastreados":{"value":894761,"detail":"https://github.com/mozcovid19/conteudo/rastreados"},
+ "testados":{"value":14010,"detail":"https://github.com/mozcovid19/conteudo/testados"},
+ "quarentena":{"value":17951,"detail":"https://github.com/mozcovid19/conteudo/quarentena"},
+ "positivos":{"value":424,"detail":"https://github.com/mozcovid19/conteudo/positivos"},
+ "negativos":{"value":13586,"detail":"https://github.com/mozcovid19/conteudo/negativos"},
  "activos":{"value":236,"detail":"https://github.com/mozcovid19/conteudo/activos"},
  "obitos":{"value":2,"detail":"https://github.com/mozcovid19/conteudo/obitos"},
- "recuperados":{"value":114,"detail":"https://github.com/mozcovid19/conteudo/recuperados"},
-"actualizacao":"2020-06-04T17:00:00.000Z"}
+ "recuperados":{"value":127,"detail":"https://github.com/mozcovid19/conteudo/recuperados"},
+"actualizacao":"2020-06-07T14:00:00.000Z"}
