@@ -377,6 +377,37 @@
       "resumo": "Foi com alguma satisfação que Rosa Marlene, Directora Nacional de Saúde Pública anunciou o primeiro caso recuperado de Covid-19 no país, informação tornada pública este sabado à margem da Conferência de Imprensa de actualização da informação sobre a doença em Moçambique e no mundo."
     }
     ],
+   "links": [
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 3
+    },
+      {
+      "source": 1,
+      "target": 4
+    },
+      {
+      "source": 1,
+      "target": 5
+    },
+      {
+      "source": 1,
+      "target": 6
+    },
+      {
+      "source": 1,
+      "target": 7
+    },
+      {
+      "source": 1,
+      "target": 8
+    }
+
+  ]
 
    
 }
